@@ -1,5 +1,4 @@
-import React from 'react';
-import { Code, Palette, Zap } from 'lucide-react';
+import { Code,  Zap } from 'lucide-react';
 
 const About = () => {
   return (
